@@ -1,0 +1,7 @@
+importFrom("stats", "coef", "contrasts", "dgeom", "glm", "logLik","model.matrix", "model.response", "quasipoisson", "runif")
+import(maxLik,DiscreteWeibull,Ecdat)
+export(ddw,qdw,pdw,rdw,dw.meanvar,dw.parest,dw.reg)
+
+
+
+

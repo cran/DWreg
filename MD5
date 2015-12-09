@@ -1,0 +1,13 @@
+6f7782a44a0906b88e60a803db3d4baf *DESCRIPTION
+b68dbd55b890fe427a485f140e4df757 *NAMESPACE
+2c5703925ae921847584e5b50aff5f2c *R/ddw.R
+dffd87ed2a8f87fd17e80cee4496b61a *R/dw.meanvar.R
+383ab8095dce495b03bfe391211c0728 *R/dw.parest.R
+e3928cb4df93e62cd55b82ba91ba50f3 *R/dw.reg.R
+43f5614bf8ab42da2b61b7d67f1d3824 *R/pdw.R
+9f13bf8e5ecd39750c5c50e63902144c *R/qdw.R
+0800664127b6c13a844f896eb0725740 *R/rdw.R
+b2715f76512406397195baec4a8279c4 *man/dw.Rd
+3c93ae4bdfd53cde1102d3b6f7af21ae *man/dw.meanvar.Rd
+e285f1736775897d334724b20c15ddaa *man/dw.parest.Rd
+04a841f23f8aef5fe8b95e1c4f231b32 *man/dw.reg.Rd
