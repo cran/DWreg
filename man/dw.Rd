@@ -21,7 +21,7 @@ rdw(n,q=exp(-1),beta=1)
 The discrete Weibulll distribution has density
 \deqn{p(x,q,\beta) = q^{x^{\beta}}-q^{(x+1)^{\beta}}}
   for \eqn{x = 0, 1, 2, \ldots}.
-If q or beta are not specified they assume the default values of exp(-1) and 1, respectively. In this case, DW corresponds to a geometric distribution.  
+If q or beta are not specified they assume the default values of exp(-1) and 1, respectively. In this case, DW corresponds to a geometric distribution with p=1-q.  
   }
 \value{
 ddw gives the density, pdw gives the distribution function, qdw gives the quantile function, and rdw generates random samples from a DW distribution with parameters q and beta.

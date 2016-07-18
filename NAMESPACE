@@ -1,6 +1,8 @@
-importFrom("stats", "coef", "contrasts", "dgeom", "glm", "logLik","model.matrix", "model.response", "quasipoisson", "runif")
+importFrom("stats", "ks.test","coef", "contrasts", "dgeom", "glm", "logLik","model.matrix", "model.response", "quasipoisson", "runif","df.residual", "pt", "qnorm", "quantile")
+importFrom("survival","survreg","Surv")
+importFrom("graphics", "lines", "plot", "polygon")
 import(maxLik,DiscreteWeibull,Ecdat)
-export(ddw,qdw,pdw,rdw,dw.meanvar,dw.parest,dw.reg)
+export(ddw,qdw,pdw,rdw,dw.meanvar,dw.parest,dw.reg,res.dw)
 
 
 
