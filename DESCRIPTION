@@ -1,16 +1,18 @@
 Package: DWreg
-Type: Package
-Version: 2.0
-Date: 2016-07-11
 Title: Parametric Regression for Discrete Response
-Author: Veronica Vinciotti <veronica.vinciotti@brunel.ac.uk>
-Maintainer: Veronica Vinciotti<veronica.vinciotti@brunel.ac.uk>
+Version: 3.0
+Authors@R: c(person(given = "Veronica",
+                        family = "Vinciotti",
+                        role = c("aut", "cre"),
+                        email = "veronica.vinciotti@unitn.it"))
 Description: Regression for a discrete response, where the conditional distribution is modelled via a discrete Weibull distribution.
-Depends: R (>= 3.2)
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.2.3
 Imports: maxLik, DiscreteWeibull, Ecdat,survival
-License: GPL (>= 2)
-LazyLoad: yes
-Packaged: 2016-07-18 08:08:22 UTC; mastvvv
-NeedsCompilation: yes
+NeedsCompilation: no
+Packaged: 2025-05-19 10:28:41 UTC; Vinciotti
+Author: Veronica Vinciotti [aut, cre]
+Maintainer: Veronica Vinciotti <veronica.vinciotti@unitn.it>
 Repository: CRAN
-Date/Publication: 2016-07-18 12:26:11
+Date/Publication: 2025-05-19 11:50:02 UTC
